@@ -30,15 +30,3 @@ I aim to deliver high-quality work, whether it’s a small personal project or a
 📂 Check out my repositories to explore projects in:  
 - Web Development (PHP-based applications, APIs, and more)  
 - IoT and Robotics (Smart solutions for modern challenges)  
-
-👉 Visit my portfolio for more details: [YourPortfolioLink.com](#).  
-
-## 📞 Let’s Connect!  
-Feel free to reach out through the following platforms:  
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
-- 🌐 GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
-- 🔗 LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
-- 🐦 Twitter: [twitter.com/YourHandle](https://twitter.com/YourHandle)  
-- 📱 Telegram: [t.me/YourTelegram](https://t.me/YourTelegram)  
-
-💬 I’m always open to collaboration opportunities. Let’s create something amazing together! 🚀  
